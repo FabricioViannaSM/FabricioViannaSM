@@ -5,8 +5,8 @@
 
 ##
 <p align="center">
- - 🦏 Estudando JavaScrpt
- - 👨🏽‍💻 Análise e desenvolvimento de sistemas 3/5
+ <b>🦏 Estudando JavaScrpt</b><br>
+ <b>👨🏽‍💻 Análise e desenvolvimento de sistemas 3/5<b>
 </p>
 ##
 
