@@ -2,8 +2,8 @@
 
 ##
 
-##- 🦏 Estudando JavaScrpt
-##- 👨🏽‍💻 Análise e desenvolvimento de sistemas 3/5
+## - 🦏 Estudando JavaScrpt
+## - 👨🏽‍💻 Análise e desenvolvimento de sistemas 3/5
 
 ##
 
