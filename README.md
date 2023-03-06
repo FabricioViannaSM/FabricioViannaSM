@@ -7,4 +7,4 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM)](https://github.com/FabricioViannaSM/github-readme-stats&theme=midnight-purple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM&hide=commits,prs,issues,contribs)](https://github.com/FabricioViannaSM/github-readme-stats)
