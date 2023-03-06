@@ -13,7 +13,7 @@
 ##
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabricioViannaSM&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple alt="Fabrício Vianna github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabricioViannaSM&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Fabrício Vianna github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioViannaSM&layout=compact&hide_border=true&theme=midnight-purple" />
 </div>
   
