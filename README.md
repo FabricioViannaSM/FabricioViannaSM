@@ -7,4 +7,4 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM&hide=stars&count_private=true&show_icons=true&theme=midnight-purple)](https://beacons.ai/fabriccio)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://beacons.ai/fabriccio)
