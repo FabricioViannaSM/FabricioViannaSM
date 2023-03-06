@@ -7,4 +7,4 @@
 
 ##
 
-[![Fabrício GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM)](https://github.com/FabricioViannaSM/github-readme-stats&hide=stars,commits,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
+[![Fabrício GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioViannaSM)](https://github.com/FabricioViannaSM/github-readme-stats&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=dark)
