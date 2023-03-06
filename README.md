@@ -2,6 +2,9 @@
 
 ##
 
-- 🦏 Estudando JavaScrpt
+##- 🦏 Estudando JavaScrpt
+##- 👨🏽‍💻 Análise e desenvolvimento de sistemas 3/5
 
+##
 
+[![Fabrício GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrícioViannaSM)](https://github.com/FabrícioViannaSM/github-readme-stats)
